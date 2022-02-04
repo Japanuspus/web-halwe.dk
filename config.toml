@@ -1,0 +1,12 @@
+base_url = "www.halwe.dk"
+
+#  https://github.com/huhu/juice
+theme = "juice"
+
+[extra]
+juice_logo_name = "HalWe"
+juice_logo_path = "favicon.svg"
+juice_extra_menu = [
+#     { title = "Github", link = "https://github.com/huhu/juice"}
+]
+# repository_url = "https://github.com/huhu/juice"

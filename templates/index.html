@@ -1,0 +1,18 @@
+{% extends "juice/templates/index.html" %}
+{% block hero %}
+    <div>
+        halwe.dk
+    </div>
+{% endblock hero %}
+
+{% block content %}
+{{ section.content | safe }}
+{% endblock content %}
+
+{% block footer %}
+<footer>
+    <small class="subtext">
+        Theme by <a href="https://huhu.io">Huhu.io</a>.
+    </small>
+</footer>
+{% endblock footer %}

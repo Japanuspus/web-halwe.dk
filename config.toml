@@ -1,4 +1,4 @@
-base_url = "www.halwe.dk"
+base_url = "https://www.halwe.dk"
 
 #  https://github.com/huhu/juice
 theme = "juice"
